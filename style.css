@@ -1,0 +1,32 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 2em;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+}
+
+body{
+    background-color: antiquewhite;
+    padding: auto;
+}
+
+.can{
+    color: black;
+    padding: auto;
+}
+
+.contact{
+    color: blue;
+}
+
+.tab{
+    color: black;
+}
+
+footer{
+    color: rgb(30, 9, 9);
+    text-align: center;
+}
